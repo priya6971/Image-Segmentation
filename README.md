@@ -9,4 +9,4 @@ Image Segmentation Using Pixellib
 5. tensorflow-gpu
 
 # Reference Link 
-https://github.com/ayoolaolafenwa/PixelLib#Instance-Segmentation-of-objects-in-Images-and-Videos-with-5-Lines-of-Code
+https://github.com/ayoolaolafenwa/PixelLib
